@@ -1,0 +1,48 @@
+    .botao {
+        color: #28cbd1;
+        background-color: white;
+        font-size: 20px;
+        padding: 10px 16px;
+        font-weight: bold;
+        border: 1px solid rgba(128, 128, 128, 0.267);
+        float: left;
+    }
+    
+    .botao-extremo-e {
+        color: #28cbd1;
+        background-color: white;
+        font-size: 20px;
+        padding: 10px 16px;
+        font-weight: bold;
+        border: 1px solid rgba(128, 128, 128, 0.267);
+        border-bottom-left-radius: 8px;
+        border-top-left-radius: 8px;
+        float: left;
+    }
+    
+    .botao-extremo-d {
+        color: #28cbd1;
+        background-color: white;
+        font-size: 20px;
+        padding: 10px 16px;
+        font-weight: bold;
+        border: 1px solid rgba(128, 128, 128, 0.267);
+        border-bottom-right-radius: 8px;
+        border-top-right-radius: 8px;
+        float: left;
+    }
+    
+    a:hover {
+        background-color: rgba(128, 128, 128, 0.267);
+        cursor: pointer;
+    }
+    
+    .posicao {
+        width: 100%;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    .paginacao {
+        display: inline-block;
+    }
